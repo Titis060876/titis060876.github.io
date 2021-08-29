@@ -169,5 +169,37 @@
               "-1",
               "0"
             ]
-          }
+          },
+    "epgid": {
+        "TF1": "192",
+        "France 2": "4",
+        "France 3": "80",
+        "Canal+": "34",
+        "Arte": "111",
+        "M6": "118",
+        "France 5": "47",
+        "C8": "445",
+        "W9": "199",
+        "TMC": "195",
+        "NT 1": "446",
+        "NRJ 12": "444",
+        "La Chaîne parlementaire": "234",
+        "France 4": "78",
+        "BFM TV": "481",
+        "CNEWS": "226",
+        "CSTAR": "485",
+        "Gulli": "482",
+        "France Ô": "160",
+        "HD1": "1404",
+        "L'Equipe": "1401",
+        "6ter": "1403",
+        "Numéro 23": "1402",
+        "RMC Découverte": "1400",
+        "Chérie 25": "1399",
+        "Franceinfo": "2111",
+        "LCI": "112",
+        "RTL9": "115",
+        "Paris Première": "145",
+        "TV5 Monde": "205"
+}
 }
