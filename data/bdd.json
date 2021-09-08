@@ -546,62 +546,72 @@
   },
   "trans": {
     "options1": {
-        "FR": [
-            "Scan IP",
-            "Entrer une IP sp\u00e9cifique",
-            "Acc\u00e8s \u00e0 l'admin PANEL",
-            "Clear",
-            "R\u00e9nitialiser la base de donn\u00e9e",
-            "Cr\u00e9ateur: TITIS060876 (\u00d3\u03bb\u03ac \u039a\u03b1\u03bb\u03ac#0001)"
-        ],
-        "EN": [
-            "Scan IP",
-            "Enter specific IP",
-            "acces to admin panel",
-            "Clear",
-            "Reset bdd",
-            "Owner: TITIS060876 (\u00d3\u03bb\u03ac \u039a\u03b1\u03bb\u03ac#0001)"
-        ]
+      "FR": [
+        "Scan IP",
+        "Entrer une IP spécifique",
+        "Accès à l'admin PANEL",
+        "Clear",
+        "Rénitialiser la base de donnée",
+        "Créateur: TITIS060876 (Óλά Καλά#0001)"
+      ],
+      "EN": [
+        "Scan IP",
+        "Enter specific IP",
+        "acces to admin panel",
+        "Clear",
+        "Reset bdd",
+        "Owner: TITIS060876 (Óλά Καλά#0001)"
+      ]
     },
     "exit": {
-        "FR": "Sortie",
-        "EN": "exit"
+      "FR": "Sortie",
+      "EN": "exit"
     },
     "etat": {
-        "FR":{
-            "sended_with_no_error": "🟢 code envoyé avec aucune erreur détectée",
-            "sended_but_error": "🔴 code envoyé, mais le décodeur a donné une réponse incorecte. Debug info"
-        },
-        "EN":{
-            "sended_with_no_error": "🟢 code sended with no error",
-            "sended_but_error": "🔴 code send but one error detected. Debug info here"
-        }
+      "FR": {
+        "sended_with_no_error": "🟢 code envoyé avec aucune erreur détectée",
+        "sended_but_error": "🔴 code envoyé, mais le décodeur a donné une réponse incorecte. Debug info"
+      },
+      "EN": {
+        "sended_with_no_error": "🟢 code sended with no error",
+        "sended_but_error": "🔴 code send but one error detected. Debug info here"
+      }
     },
     "pavee": {
-        "FR": ["Nombre supérieur a 9", "Entrer un chiffre entre 0 et 999", "vérification...","envoie"],
-        "EN": ["Number bigger then 9", "Enter number enter 0 and 999", "checking...","sending"]
+      "FR": [
+        "Nombre supérieur a 9",
+        "Entrer un chiffre entre 0 et 999",
+        "vérification...",
+        "envoie"
+      ],
+      "EN": [
+        "Number bigger then 9",
+        "Enter number enter 0 and 999",
+        "checking...",
+        "sending"
+      ]
     },
     "options2": {
-        "FR": [
-            "Nombre",
-            "Allum\u00e9/\u00e9teindre",
-            "R\u00e9cuperer les infos",
-            "Fl\u00e8che dir\u00e9ctionelle",
-            "Volume",
-            "Autre",
-            "Racourcie",
-            "Options d\u00e9caler"
-        ],
-        "EN": [
-            "Number",
-            "On/Off",
-            "Get info",
-            "Arrow",
-            "Volume",
-            "Other",
-            "Link",
-            "Fun options"
-        ]
+      "FR": [
+        "Nombre",
+        "Allumé/éteindre",
+        "Récuperer les infos",
+        "Flèche diréctionelle",
+        "Volume",
+        "Autre",
+        "Racourcie",
+        "Options décaler"
+      ],
+      "EN": [
+        "Number",
+        "On/Off",
+        "Get info",
+        "Arrow",
+        "Volume",
+        "Other",
+        "Link",
+        "Fun options"
+      ]
     }
-}
+  }
 }
