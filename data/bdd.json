@@ -547,8 +547,8 @@
         "B-ONE": "1466"
     }, "trans": {
         "options1":{
-            "FR":["Scan IP", "Entrer une IP spécifique", "Accès à l'admin PANEL", "Clear","Rénitialiser la base de donnée", "Créateur"],
-            "EN":["Scan IP","Enter specific IP", "acces to admin panel", "Clear","Reset bdd", "Owner"]
+            "FR":["Scan IP", "Entrer une IP spécifique", "Accès à l'admin PANEL", "Clear","Rénitialiser la base de donnée", "Créateur: TITIS060876 (Óλά Καλά#0001)"],
+            "EN":["Scan IP","Enter specific IP", "acces to admin panel", "Clear","Reset bdd", "Owner: TITIS060876 (Óλά Καλά#0001)"]
         },"options2":{
             "FR":["Nombre", "Allumé/éteindre", "Récuperer les infos", "Flèche diréctionelle", "Volume", "Autre", "Racourcie", "Options décaler", "Quitter"],
             "EN":["Number", "On/Off", "Get info", "Arrow","Volume","Other","Link","Fun options", "Exit to Panel"]
