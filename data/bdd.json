@@ -569,6 +569,12 @@
         "left": "gauche",
         "right": "droit",
         "down": "bas"
+      },
+      "EN": {
+        "up":"up",
+        "down":"down",
+        "left":"left",
+        "right":"right"
       }
     },
     "exit": {
