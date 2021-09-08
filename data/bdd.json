@@ -570,11 +570,25 @@
     "etat": {
       "FR": {
         "sended_with_no_error": "🟢 code envoyé avec aucune erreur détectée",
-        "sended_but_error": "🔴 code envoyé, mais le décodeur a donné une réponse incorecte. Debug info"
+        "sended_but_error": "🔴 code envoyé, mais le décodeur a donné une réponse incorecte. Debug info ici",
+        "standby": "🔴 - Standby (hors tension) mode activé",
+        "read": "🎶 - Enceintes activées",
+        "id": "L'ID de la chaine active est ",
+        "epgid": "📺 - Epgid de la chaine est ",
+        "no_chain": "📺 - Aucune chaine n'est lancer",
+        "home": "📺 - Actuelement sur l'écran d'acceuil",
+        "on": "Actuellement sur "
       },
       "EN": {
         "sended_with_no_error": "🟢 code sended with no error",
-        "sended_but_error": "🔴 code send but one error detected. Debug info here"
+        "sended_but_error": "🔴 code send but one error detected. Debug info here",
+        "standby": "🔴 - Standby (turned off) mode active",
+        "read": "🎶 - Speakers read channel",
+        "id": "The channel's ID is ",
+        "epgid": "📺 - Epgid of the channel is ",
+        "no_chain": "📺 - No chain played",
+        "home": "📺 - Actualy on home screen",
+        "on": "Actualy on  "
       }
     },
     "pavee": {
