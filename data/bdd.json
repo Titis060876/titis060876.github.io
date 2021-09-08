@@ -563,6 +563,14 @@
         "Owner: TITIS060876 (Óλά Καλά#0001)"
       ]
     },
+    "arrow": {
+      "FR": {
+        "up": "haut",
+        "left": "gauche",
+        "right": "droit",
+        "down": "bas"
+      }
+    },
     "exit": {
       "FR": "Sortie",
       "EN": "exit"
