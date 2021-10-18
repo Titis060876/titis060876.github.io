@@ -545,15 +545,22 @@
     "B-ONE": "1466"
   },
   "trans": {
+    "version": "0.13",
+    "credit": "TITIS060876",
+    "smart_tv_options": {
+      "FR": ["Récuperer les applications installer", "Lancer une application"],
+      "EN": [""]
+    },
     "rebuild": {
       "FR": {
         "not_found": "l'API n'a pas envoyé de réponse",
         "found": "API trouver",
         "finish": "base de donné reconstruite, redémarrer \"Panel\" pour l'utiliser"
       },
-      "EN":{
+      "EN": {
         "not_found": "API not found",
-        "found": "BDD rebuild, restart \"Panel\" for use it"
+        "found": "BDD rebuild, restart \"Panel\" for use it",
+        "finish": "Restart Panel please"
       }
     },
     "options1": {
@@ -575,18 +582,18 @@
       ]
     },
     "arrow": {
-        "FR":{
-            "up": "haut",
-            "left": "gauche",
-            "right": "droit",
-            "down": "bas"
-        },
-        "EN": {
-          "up":"up",
-          "down":"down",
-          "left":"left",
-          "right":"right"
-        }
+      "FR": {
+        "up": "haut",
+        "left": "gauche",
+        "right": "droit",
+        "down": "bas"
+      },
+      "EN": {
+        "up": "up",
+        "down": "down",
+        "left": "left",
+        "right": "right"
+      }
     },
     "exit": {
       "FR": "Sortie",
@@ -600,20 +607,20 @@
         "read": "🎶 - Sortie son actif",
         "id": "L'ID de la chaine active est ",
         "epgid": "📺 - Epgid de la chaine est ",
-        "no_chain":"📺 - Aucune chaine n'est lancer",
+        "no_chain": "📺 - Aucune chaine n'est lancer",
         "home": "📺 - Actuelement sur l'écran d'acceuil",
         "on": "Actuellement sur "
       },
       "EN": {
         "sended_with_no_error": "🟢 code sended with no error",
         "sended_but_error": "🔴 code send but one error detected. Debug info here",
-        "standby":"🔴 - Standby (turned off) mode active",
+        "standby": "🔴 - Standby (turned off) mode active",
         "read": "🎶 - Speakers read channel",
         "id": "The channel's ID is ",
         "epgid": "📺 - Epgid of the channel is ",
         "no_chain": "📺 - No chain played",
-        "home":"📺 - Actualy on home screen",
-        "on":"Actualy on  "
+        "home": "📺 - Actualy on home screen",
+        "on": "Actualy on  "
       }
     },
     "pavee": {
