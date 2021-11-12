@@ -545,7 +545,7 @@
     "B-ONE": "1466"
   },
   "trans": {
-    "version": "0.13",
+    "version": "0.14",
     "credit": "TITIS060876",
     "smart_tv_options": {
       "FR": ["Récuperer les applications installer", "Lancer une application"],
@@ -559,7 +559,7 @@
       },
       "EN": {
         "not_found": "API not found",
-        "found": "BDD rebuild, restart \"Panel\" for use it",
+        "found": "database rebuild, restart \"Panel\" for use it",
         "finish": "Restart Panel please"
       }
     },
@@ -570,6 +570,7 @@
         "Accès à l'admin PANEL",
         "Clear",
         "Rénitialiser la base de donnée",
+        "Profile",
         "Créateur: TITIS060876 (Óλά Καλά#0001)"
       ],
       "EN": [
@@ -577,7 +578,8 @@
         "Enter specific IP",
         "acces to admin panel",
         "Clear",
-        "Reset bdd",
+        "Reset database",
+        "Profile",
         "Owner: TITIS060876 (Óλά Καλά#0001)"
       ]
     },
@@ -658,6 +660,46 @@
         "Link",
         "Fun options"
       ]
+    },
+    "netflix": {
+      "FR": {
+        "stm?": "lancer le premier film trouver? (y/n)"
+      },
+      "EN": {
+        "stm?": "start the 1st movies found? (y/n)"
+      }
+    },
+    "profile": {
+      "FR": {
+        "ok": "fichier trouvé, aucune erreur de lecture",
+        "er": "fichier trouvé mais une erreur de lecture et survenue, suppression de tout les profiles corrumpu",
+        "nt": "ficher introuvable",
+        "1": "Créer un nouveau profile",
+        "2": "Lancer un profile",
+        "n?": "nom?",
+        "plc": "l'emplacement du profile dans le conte Netflix?(1-10)",
+        "ty": [
+          "[1] - Taper du texte dans la zone de recherche",
+          "[2] - Lancer un film une fois et supprimer le profile",
+          "[3] - Lancer une série et la reprendre la ou vous vous êtes arreter"
+        ],
+        "e": "le nom de la série/film ou le texte a entré"
+      },
+      "EN": {
+        "ok": "file found with no reading error",
+        "er": "file found but error was been raise when readin, deleting all cormpted profile",
+        "nt": "file not found",
+        "1": "Create new profile",
+        "2": "Start profile",
+        "n?": "name?",
+        "plc": "the placement of the profile you wanna use?(1-10)",
+        "ty": [
+          "[1] - Only type in the type zone",
+          "[2] - Start a movie and delete the profile",
+          "[3] - Start a series and resume it where you left off"
+        ],
+        "e": "the text or the name of the movie/serie"
+      }
     }
   }
 }
