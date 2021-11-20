@@ -545,12 +545,8 @@
     "B-ONE": "1466"
   },
   "trans": {
-    "version": "0.14",
+    "version": "0.15",
     "credit": "TITIS060876",
-    "smart_tv_options": {
-      "FR": ["Récuperer les applications installer", "Lancer une application"],
-      "EN": [""]
-    },
     "rebuild": {
       "FR": {
         "not_found": "l'API n'a pas envoyé de réponse",
@@ -562,6 +558,16 @@
         "found": "database rebuild, restart \"Panel\" for use it",
         "finish": "Restart Panel please"
       }
+    },
+    "fun": {
+      "FR":[
+        "Créer un Qrcode pour allumé et éteindre le décodeur (WiFi obligatoire lors du scan)",
+        "Tout est dans le nom"
+      ],
+      "EN": [
+        "Create Qrcode for turn Off/On the decoder (WiFi require when reading)",
+        "All is in the name"
+      ]
     },
     "options1": {
       "FR": [
@@ -599,7 +605,7 @@
     },
     "exit": {
       "FR": "Sortie",
-      "EN": "exit"
+      "EN": "Exit"
     },
     "etat": {
       "FR": {
@@ -683,7 +689,8 @@
           "[2] - Lancer un film une fois et supprimer le profile",
           "[3] - Lancer une série et la reprendre la ou vous vous êtes arreter"
         ],
-        "e": "le nom de la série/film ou le texte a entré"
+        "e": "le nom de la série/film ou le texte a entré",
+        "nop": "aucun profile n's étais créer"
       },
       "EN": {
         "ok": "file found with no reading error",
@@ -698,7 +705,8 @@
           "[2] - Start a movie and delete the profile",
           "[3] - Start a series and resume it where you left off"
         ],
-        "e": "the text or the name of the movie/serie"
+        "e": "the text or the name of the movie/serie",
+        "nop": "no profile created"
       }
     }
   }
