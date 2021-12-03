@@ -545,8 +545,12 @@
     "B-ONE": "1466"
   },
   "trans": {
-    "version": "0.15",
+    "version": "0.16",
     "credit": "TITIS060876",
+    "loading": {
+      "FR": "Chargement de Panel...",
+      "EN": "Panel is loading..."
+    },
     "rebuild": {
       "FR": {
         "not_found": "l'API n'a pas envoyé de réponse",
