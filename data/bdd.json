@@ -545,11 +545,17 @@
     "B-ONE": "1466"
   },
   "trans": {
-    "version": "0.16",
+    "version": "0.17",
     "credit": "TITIS060876",
     "loading": {
       "FR": "Chargement de Panel...",
       "EN": "Panel is loading..."
+    },
+    "more": {
+      "FR": {
+        "Netflix": "Netflix options",
+        "Amazon": "Prime video options"
+      }
     },
     "rebuild": {
       "FR": {
@@ -671,11 +677,21 @@
         "Fun options"
       ]
     },
+    "prime": {
+      "FR": {
+        "s": "Rechercher un film sur Prime video (redémarrage requis)"
+      },
+      "EN": {
+        "s":"search on Prime video (this is gonna restart Prime video)"
+      }
+    },
     "netflix": {
       "FR": {
+        "s": "Rechercher un film sur Netflix (redémarrage requis)",
         "stm?": "lancer le premier film trouver? (y/n)"
       },
       "EN": {
+        "s": "search on Netflix (this is gonna restart netflix)",
         "stm?": "start the 1st movies found? (y/n)"
       }
     },
@@ -687,14 +703,14 @@
         "1": "Créer un nouveau profile",
         "2": "Lancer un profile",
         "n?": "nom?",
-        "plc": "l'emplacement du profile dans le conte Netflix?(1-10)",
+        "plc": "l'emplacement du profile dans le compte Netflix?(1-10)",
         "ty": [
           "[1] - Taper du texte dans la zone de recherche",
           "[2] - Lancer un film une fois et supprimer le profile",
           "[3] - Lancer une série et la reprendre la ou vous vous êtes arreter"
         ],
         "e": "le nom de la série/film ou le texte a entré",
-        "nop": "aucun profile n's étais créer"
+        "nop": "aucun profile n'a était créer"
       },
       "EN": {
         "ok": "file found with no reading error",
@@ -705,7 +721,7 @@
         "n?": "name?",
         "plc": "the placement of the profile you wanna use?(1-10)",
         "ty": [
-          "[1] - Only type in the type zone",
+          "[1] - Only type something in the type zone",
           "[2] - Start a movie and delete the profile",
           "[3] - Start a series and resume it where you left off"
         ],
