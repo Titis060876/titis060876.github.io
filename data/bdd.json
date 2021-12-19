@@ -545,7 +545,7 @@
     "B-ONE": "1466"
   },
   "trans": {
-    "version": "0.18",
+    "version": "0.16",
     "credit": "TITIS060876",
     "loading": {
       "FR": "Chargement de Panel...",
@@ -555,6 +555,10 @@
       "FR": {
         "Netflix": "Netflix options",
         "Amazon": "Prime video options"
+      },
+      "EN":{
+        "Netflix": "Netflix's options",
+        "Amazon": "Prime video's options"
       }
     },
     "rebuild": {
