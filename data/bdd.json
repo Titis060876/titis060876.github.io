@@ -545,11 +545,19 @@
     "B-ONE": "1466"
   },
   "trans": {
-    "version": "0.17",
+    "version": "0.16",
     "credit": "TITIS060876",
+    "scan": {
+      "FR": {
+        "not_found": "Aucun décodeur Orange n'a était trouver sur votre réseau."
+      },
+      "EN": {
+        "not_found": "Your decoder can't be found."
+      }
+    },
     "loading": {
-      "FR": "Chargement de Panel...",
-      "EN": "Panel is loading..."
+      "FR": "chargement de panel...",
+      "EN": "panel is loading..."
     },
     "more": {
       "FR": {
@@ -623,6 +631,7 @@
     },
     "etat": {
       "FR": {
+        "er": "La connection ne peut pas être initié",
         "sended_with_no_error": "🟢 code envoyé avec aucune erreur détectée",
         "sended_but_error": "🔴 code envoyé, mais le décodeur a donné une réponse incorecte. Debug info ici",
         "standby": "🔴 - Standby (hors tension) mode activé",
@@ -634,6 +643,7 @@
         "on": "Actuellement sur "
       },
       "EN": {
+        "er": "Connexion can't be initied",
         "sended_with_no_error": "🟢 code sended with no error",
         "sended_but_error": "🔴 code send but one error detected. Debug info here",
         "standby": "🔴 - Standby (turned off) mode active",
@@ -691,10 +701,12 @@
     },
     "netflix": {
       "FR": {
+        "close": "fermeture du fichier...",
         "s": "Rechercher un film sur Netflix (redémarrage requis)",
         "stm?": "lancer le premier film trouver? (y/n)"
       },
       "EN": {
+        "close": "closing file...",
         "s": "search on Netflix (this is gonna restart netflix)",
         "stm?": "start the 1st movies found? (y/n)"
       }
