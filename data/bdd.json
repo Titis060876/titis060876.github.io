@@ -713,11 +713,13 @@
     },
     "profile": {
       "FR": {
+        "done": "profile supprimé",
         "ok": "fichier trouvé, aucune erreur de lecture",
         "er": "fichier trouvé mais une erreur de lecture et survenue, suppression de tout les profiles corrumpu",
         "nt": "ficher introuvable",
         "1": "Créer un nouveau profile",
         "2": "Lancer un profile",
+        "3": "Supprimer un profile",
         "n?": "nom?",
         "plc": "l'emplacement du profile dans le compte Netflix?(1-10)",
         "ty": [
@@ -729,11 +731,13 @@
         "nop": "aucun profile n'a était créer"
       },
       "EN": {
+        "done": "data erased",
         "ok": "file found with no reading error",
         "er": "file found but error was been raise when readin, deleting all cormpted profile",
         "nt": "file not found",
         "1": "Create new profile",
         "2": "Start profile",
+        "3": "Delete profile",
         "n?": "name?",
         "plc": "the placement of the profile you wanna use?(1-10)",
         "ty": [
