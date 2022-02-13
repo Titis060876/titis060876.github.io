@@ -545,7 +545,7 @@
     "B-ONE": "1466"
   },
   "trans": {
-    "version": "0.16",
+    "version": "0.17",
     "credit": "TITIS060876",
     "scan": {
       "FR": {
@@ -553,6 +553,16 @@
       },
       "EN": {
         "not_found": "Your decoder can't be found."
+      }
+    },
+    "channel": {
+      "FR": {
+        "what": "Quelle est le numéro de la chaine? \n",
+        "not_found": "La chaine n'a pas était trouver la dans base de donnée"
+      }, 
+      "EN": {
+        "what": "What is the number of the channel? \n",
+        "not_found": "The channel can't be found in the database"
       }
     },
     "loading": {
@@ -627,7 +637,7 @@
     },
     "exit": {
       "FR": "Sortie",
-      "EN": "<"
+      "EN": "Exit"
     },
     "etat": {
       "FR": {
@@ -678,6 +688,7 @@
         "Volume",
         "Autre",
         "Racourcie",
+        "Chaine",
         "Options décaler"
       ],
       "EN": [
@@ -688,6 +699,7 @@
         "Volume",
         "Other",
         "Link",
+        "Channel",
         "Fun options"
       ]
     },
