@@ -545,8 +545,12 @@
     "B-ONE": "1466"
   },
   "trans": {
-    "version": "0.18",
+    "version": "0.19",
     "credit": "TITIS060876",
+    "dis": {
+      "FR": "Vous avez besoin d'avoir un décodeur « Orange » pour utiliser le script",
+      "EN": "You need to have an « Orange » decoder to use script."
+    },
     "scan": {
       "FR": {
         "disclamer": "Vous",
