@@ -545,19 +545,23 @@
     "B-ONE": "1466"
   },
   "trans": {
-    "version": "0.19",
+    "version": "0.21",
     "credit": "TITIS060876",
+    "bye": {
+      "FR": "Au revoir !",
+      "EN": "Goodbye !"
+    },
     "dis": {
       "FR": "Vous avez besoin d'avoir un décodeur « Orange » pour utiliser le script",
       "EN": "You need to have an « Orange » decoder to use script."
     },
     "scan": {
       "FR": {
-        "disclamer": "Vous",
+        "disclamer": "Vous avez besoin d'un decodeur Orange pour utiliser se script",
         "not_found": "Aucun décodeur Orange n'a était trouver sur votre réseau."
       },
       "EN": {
-        "disclamer": "",
+        "disclamer": "You have to connect a Orange decoder for use this script",
         "not_found": "Your decoder can't be found."
       }
     },
@@ -650,7 +654,7 @@
         "menu": "Menu Principal",
         "er": "La connection ne peut pas être initié",
         "sended_with_no_error": "🟢 code envoyé avec aucune erreur détectée",
-        "sended_but_error": "🔴 code envoyé, mais le décodeur a donné une réponse incorecte. Debug info ici",
+        "sended_but_error": "🔴 code envoyé, mais le décodeur a donné une réponse incorecte. Debug info in error.txt",
         "standby": "🔴 - Standby (hors tension) mode activé",
         "read": "🎶 - Sortie son actif",
         "id": "L'ID de la chaine active est ",
@@ -663,7 +667,7 @@
         "menu": "Main Menu",
         "er": "Connexion can't be initied",
         "sended_with_no_error": "🟢 code sended with no error",
-        "sended_but_error": "🔴 code send but one error detected. Debug info here",
+        "sended_but_error": "🔴 code send but one error detected. Debug info error.txt",
         "standby": "🔴 - Standby (turned off) mode active",
         "read": "🎶 - Speakers read channel",
         "id": "The channel's ID is ",
