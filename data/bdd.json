@@ -545,7 +545,7 @@
     "B-ONE": "1466"
   },
   "trans": {
-    "version": "0.21",
+    "version": "0.23",
     "credit": "TITIS060876",
     "bye": {
       "FR": "Au revoir !",
@@ -658,7 +658,8 @@
         "standby": "🔴 - Standby (hors tension) mode activé",
         "read": "🎶 - Sortie son actif",
         "id": "L'ID de la chaine active est ",
-        "epgid": "📺 - Epgid de la chaine est ",
+        "epgid": "📺 - Le nom de le chaine est ",
+        "num": "📺 - La chaine est ",
         "no_chain": "📺 - Aucune chaine n'est lancer",
         "home": "📺 - Actuelement sur l'écran d'acceuil",
         "on": "Actuellement sur "
@@ -671,7 +672,8 @@
         "standby": "🔴 - Standby (turned off) mode active",
         "read": "🎶 - Speakers read channel",
         "id": "The channel's ID is ",
-        "epgid": "📺 - Epgid of the channel is ",
+        "epgid": "📺 - The channel name is ",
+        "num": "📺 - The channel is  ",
         "no_chain": "📺 - No chain played",
         "home": "📺 - Actualy on home screen",
         "on": "Actualy on  "
