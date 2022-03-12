@@ -545,7 +545,7 @@
     "B-ONE": "1466"
   },
   "trans": {
-    "version": "0.23",
+    "version": "0.27",
     "credit": "TITIS060876",
     "bye": {
       "FR": "Au revoir !",
@@ -591,11 +591,13 @@
     },
     "rebuild": {
       "FR": {
+        "checking_IP": "verification ",
         "not_found": "l'API n'a pas envoyé de réponse",
         "found": "API trouver",
         "finish": "base de donné reconstruite, redémarrer \"Panel\" pour l'utiliser"
       },
       "EN": {
+        "checking_IP": "checking ",
         "not_found": "API not found",
         "found": "database rebuild, restart \"Panel\" for use it",
         "finish": "Restart Panel please"
