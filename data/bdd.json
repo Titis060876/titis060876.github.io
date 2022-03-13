@@ -545,7 +545,7 @@
     "B-ONE": "1466"
   },
   "trans": {
-    "version": "0.31",
+    "version": "0.33",
     "credit": "TITIS060876",
     "bye": {
       "FR": "Au revoir !",
@@ -621,7 +621,7 @@
         "Clear",
         "Rénitialiser la base de donnée",
         "Profile",
-        "Créateur: TITIS060876 (Óλά Καλά#0001)"
+        "Créateur: TITIS060876 (Óλά Καλά#0001 ID:603893736803663872)"
       ],
       "EN": [
         "Scan IP",
@@ -630,7 +630,7 @@
         "Clear",
         "Reset database",
         "Profile",
-        "Owner: TITIS060876 (Óλά Καλά#0001)"
+        "Owner: TITIS060876 (Óλά Καλά#0001 ID:603893736803663872)"
       ]
     },
     "arrow": {
