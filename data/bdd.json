@@ -545,7 +545,7 @@
     "B-ONE": "1466"
   },
   "trans": {
-    "version": "0.34",
+    "version": "0.41",
     "credit": "TITIS060876",
     "bye": {
       "FR": "Au revoir !",
@@ -681,14 +681,14 @@
     },
     "pavee": {
       "FR": [
-        "Nombre supérieur a 9",
+        "Nombre supérieur à 9",
         "Entrer un chiffre entre 0 et 999",
         "vérification...",
         "envoie"
       ],
       "EN": [
         "Number bigger then 9",
-        "Enter number enter 0 and 999",
+        "Enter number between 0 and 999",
         "checking...",
         "sending"
       ]
@@ -722,7 +722,7 @@
         "s": "Rechercher un film sur Prime video (redémarrage requis)"
       },
       "EN": {
-        "s":"search on Prime video (this is gonna restart Prime video)"
+        "s":"Search a movie on Prime video (restart required)"
       }
     },
     "netflix": {
@@ -733,7 +733,7 @@
       },
       "EN": {
         "close": "closing file...",
-        "s": "search on Netflix (this is gonna restart netflix)",
+        "s": "Search a movie on Netflix (restart required)",
         "stm?": "start the 1st movies found? (y/n)"
       }
     },
@@ -775,6 +775,30 @@
         ],
         "e": "the text or the name of the movie/serie",
         "nop": "no profile created"
+      }
+    },
+    "plugins": {
+      "Livebox": {
+        "FR" : {
+          "enter_mdp": "veuillez entrer le mot de passe de votre box (reboot : http://192.168.1.1 ; indiquez \"null\" pour quitter le plugin)",
+          "options" : [
+            "Redémarrer",
+            "Grab sysbus",
+            "Essayé une addresse sysbus avec un token valide",
+            "Changer le mot de passe"
+          ],
+          "rebooting": "redémarrage de la box en cours"
+        },
+        "EN" : {
+          "enter_mdp": "please enter your box password (reboot : http://192.168.1.1 ; enter \"null\" to quit the plugin)",
+          "options" : [
+            "Reboot",
+            "Grab sysbus",
+            "test a sysbus address with a valid token",
+            "Change password"
+          ],
+          "rebooting": "rebooting the box"
+        }
       }
     }
   }
