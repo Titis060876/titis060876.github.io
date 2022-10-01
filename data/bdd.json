@@ -545,7 +545,7 @@
     "B-ONE": "1466"
   },
   "trans": {
-    "version": "0.41",
+    "version": "0.40",
     "credit": "TITIS060876",
     "bye": {
       "FR": "Au revoir !",
@@ -798,6 +798,14 @@
             "Change password"
           ],
           "rebooting": "rebooting the box"
+        }
+      },
+      "Matrix" : {
+        "FR" : {
+          "intro": "Matrix chargé avec succès"
+        },
+        "EN" : {
+          "intro": "Matrix successfully loaded"
         }
       }
     }
