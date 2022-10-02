@@ -545,7 +545,7 @@
     "B-ONE": "1466"
   },
   "trans": {
-    "version": 0.48,
+    "version": 0.50,
     "credit": "TITIS060876",
     "bye": {
       "FR": "Au revoir !",
@@ -793,7 +793,8 @@
       ],
       "contributors" : [],
       "testers" : [],
-      "special thanks" : []
+      "special thanks" : [],
+      "projet timestamp" : 1619877080
       },
       "FR": {
         "développeur principal": [
@@ -810,7 +811,8 @@
         ],
         "contributeurs" : [],
         "testeurs" : [],
-        "remerciements" : []
+        "remerciements" : [],
+        "projet timestamp" : 1619877080
       }
     },
     "plugins": {
