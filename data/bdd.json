@@ -545,7 +545,7 @@
     "B-ONE": "1466"
   },
   "trans": {
-    "version": "0.41",
+    "version": 0.41,
     "credit": "TITIS060876",
     "bye": {
       "FR": "Au revoir !",
@@ -808,6 +808,23 @@
           "intro": "Matrix successfully loaded"
         }
       }
+    },
+    "credit_data": {
+      "main developer": [
+          "TITIS060876"
+      ],
+      "developers" : [
+          "TITIS060876"
+      ],
+      "main translator": [
+          "TITIS060876"
+          ],
+      "translators" : [
+          "TITIS060876"
+      ],
+      "contributors" : [],
+      "testers" : [],
+      "special thanks" : []
     }
   }
 }
