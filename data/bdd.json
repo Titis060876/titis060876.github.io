@@ -545,7 +545,7 @@
     "B-ONE": "1466"
   },
   "trans": {
-    "version": 0.50,
+    "version": 0.52,
     "credit": "TITIS060876",
     "bye": {
       "FR": "Au revoir !",
@@ -794,7 +794,7 @@
       "contributors" : [],
       "testers" : [],
       "special thanks" : [],
-      "projet timestamp" : 1619877080
+      "started" : 1619877080
       },
       "FR": {
         "développeur principal": [
@@ -812,7 +812,7 @@
         "contributeurs" : [],
         "testeurs" : [],
         "remerciements" : [],
-        "projet timestamp" : 1619877080
+        "commencé il y a" : 1619877080
       }
     },
     "plugins": {
@@ -844,6 +844,30 @@
         },
         "EN" : {
           "intro": "Matrix successfully loaded"
+        }
+      },
+      "Credit": {
+        "FR": {
+          "s": "secondes",
+          "min": "minutes",
+          "h": "heures",
+          "d": "jours",
+          "m": "mois",
+          "y": "ans",
+          "yes": "hier",
+          "n": "a l'istant",
+          "w": "semaines"
+        },
+        "EN": {
+          "s": "seconds",
+          "min": "minutes",
+          "h": "hours",
+          "d": "days",
+          "m": "months",
+          "y": "years",
+          "yes": "yesterday",
+          "n": "just now",
+          "w": "week"
         }
       }
     }
