@@ -777,6 +777,42 @@
         "nop": "no profile created"
       }
     },
+    "credit_data": {
+      "EN": {
+        "main developer": [
+          "TITIS060876"
+      ],
+      "developers" : [
+          "TITIS060876"
+      ],
+      "main translator": [
+          "TITIS060876"
+          ],
+      "translators" : [
+          "TITIS060876"
+      ],
+      "contributors" : [],
+      "testers" : [],
+      "special thanks" : []
+      },
+      "FR": {
+        "développeur principal": [
+          "TITIS060876"
+        ],
+        "développeurs" : [
+          "TITIS060876"
+        ],
+        "traducteur principal" : [
+          "TITIS060876"
+        ],
+        "traducteurs" : [
+          "TITIS060876"
+        ],
+        "contributeurs" : [],
+        "testeurs" : [],
+        "remerciements" : []
+      }
+    },
     "plugins": {
       "Livebox": {
         "FR" : {
@@ -808,23 +844,6 @@
           "intro": "Matrix successfully loaded"
         }
       }
-    },
-    "credit_data": {
-      "main developer": [
-          "TITIS060876"
-      ],
-      "developers" : [
-          "TITIS060876"
-      ],
-      "main translator": [
-          "TITIS060876"
-          ],
-      "translators" : [
-          "TITIS060876"
-      ],
-      "contributors" : [],
-      "testers" : [],
-      "special thanks" : []
     }
   }
 }
